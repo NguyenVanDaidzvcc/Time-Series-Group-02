@@ -1,0 +1,94 @@
+{
+  "raw_path": "D:\\Code\\Python\\time_series _\\data\\raw\\Metro_Interstate_Traffic_Volume.csv",
+  "processed_dir": "D:\\Code\\Python\\time_series _\\data\\processed",
+  "target_col": "traffic_volume",
+  "feature_cols": [
+    "temp",
+    "rain_1h",
+    "snow_1h",
+    "clouds_all",
+    "hour",
+    "day_of_week",
+    "day_of_month",
+    "day_of_year",
+    "week_of_year",
+    "month",
+    "quarter",
+    "year",
+    "hour_sin",
+    "hour_cos",
+    "day_of_week_sin",
+    "day_of_week_cos",
+    "month_sin",
+    "month_cos",
+    "day_of_year_sin",
+    "day_of_year_cos",
+    "is_weekend",
+    "is_holiday",
+    "weather_main_Clear",
+    "weather_main_Clouds",
+    "weather_main_Drizzle",
+    "weather_main_Fog",
+    "weather_main_Haze",
+    "weather_main_Mist",
+    "weather_main_Rain",
+    "weather_main_Smoke",
+    "weather_main_Snow",
+    "weather_main_Squall",
+    "weather_main_Thunderstorm"
+  ],
+  "weather_feature_cols": [
+    "weather_main_Clear",
+    "weather_main_Clouds",
+    "weather_main_Drizzle",
+    "weather_main_Fog",
+    "weather_main_Haze",
+    "weather_main_Mist",
+    "weather_main_Rain",
+    "weather_main_Smoke",
+    "weather_main_Snow",
+    "weather_main_Squall",
+    "weather_main_Thunderstorm"
+  ],
+  "seq_len": 168,
+  "pred_len": 24,
+  "split_ratio": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  },
+  "split_rows": {
+    "train": 36785,
+    "validation": 7883,
+    "test": 7883
+  },
+  "window_shapes": {
+    "train_X": [
+      36594,
+      168,
+      33
+    ],
+    "train_y": [
+      36594,
+      24
+    ],
+    "validation_X": [
+      7692,
+      168,
+      33
+    ],
+    "validation_y": [
+      7692,
+      24
+    ],
+    "test_X": [
+      7692,
+      168,
+      33
+    ],
+    "test_y": [
+      7692,
+      24
+    ]
+  }
+}

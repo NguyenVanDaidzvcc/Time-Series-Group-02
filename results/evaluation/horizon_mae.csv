@@ -1,0 +1,73 @@
+Model,Horizon,MAE
+Linear Regression,1,904.5098
+Linear Regression,2,913.37177
+Linear Regression,3,912.7076
+Linear Regression,4,888.4708
+Linear Regression,5,849.11536
+Linear Regression,6,894.0092
+Linear Regression,7,960.692
+Linear Regression,8,959.83856
+Linear Regression,9,931.6912
+Linear Regression,10,921.36847
+Linear Regression,11,950.3948
+Linear Regression,12,966.1683
+Linear Regression,13,971.06165
+Linear Regression,14,960.29614
+Linear Regression,15,938.16223
+Linear Regression,16,938.598
+Linear Regression,17,956.8293
+Linear Regression,18,964.4551
+Linear Regression,19,955.64667
+Linear Regression,20,949.2758
+Linear Regression,21,943.011
+Linear Regression,22,930.88745
+Linear Regression,23,913.16235
+Linear Regression,24,903.80273
+XGBoost,1,425.88092
+XGBoost,2,442.20718
+XGBoost,3,451.42862
+XGBoost,4,457.80353
+XGBoost,5,409.86496
+XGBoost,6,426.5296
+XGBoost,7,455.16287
+XGBoost,8,456.13007
+XGBoost,9,462.66446
+XGBoost,10,458.27042
+XGBoost,11,464.53455
+XGBoost,12,441.73135
+XGBoost,13,458.96918
+XGBoost,14,469.07034
+XGBoost,15,468.00436
+XGBoost,16,462.54587
+XGBoost,17,458.71252
+XGBoost,18,431.59253
+XGBoost,19,430.4131
+XGBoost,20,442.89984
+XGBoost,21,467.37555
+XGBoost,22,471.4918
+XGBoost,23,446.53052
+XGBoost,24,437.7827
+iTransformer,1,377.36966
+iTransformer,2,355.98416
+iTransformer,3,357.09296
+iTransformer,4,350.1372
+iTransformer,5,346.04144
+iTransformer,6,347.4401
+iTransformer,7,345.3726
+iTransformer,8,350.08615
+iTransformer,9,345.0788
+iTransformer,10,335.57513
+iTransformer,11,338.7952
+iTransformer,12,344.0541
+iTransformer,13,340.05066
+iTransformer,14,337.20435
+iTransformer,15,341.3465
+iTransformer,16,339.19
+iTransformer,17,343.27094
+iTransformer,18,348.8609
+iTransformer,19,344.1517
+iTransformer,20,347.31415
+iTransformer,21,345.06134
+iTransformer,22,352.55618
+iTransformer,23,356.37134
+iTransformer,24,362.7588
